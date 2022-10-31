@@ -69,6 +69,7 @@ public class VendingMachineServiceImpl implements VendingMachineService{
             throw new VendingMachineInsufficientFundsException("Insufficient funds");
         } else {
             changeInventoryCount(item, item.getNumInventoryItems() - 1);
+            adao.writeAuditEntry("Item " + item.getName() + " has been sold. Number in inventory: " + item.getNumInventoryItems());
             return totalFunds.subtract(item.getCost());
         }
     }

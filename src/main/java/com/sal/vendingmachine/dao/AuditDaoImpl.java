@@ -19,7 +19,17 @@ public class AuditDaoImpl implements AuditDao{
     
     @Override
     public void writeAuditEntry(String entry) throws VendingMachineException{
-       //implement
+        PrintWriter out;
+
+        try {
+            out = new PrintWriter(new FileWriter(AUDIT_FILE, true));
+        } catch (IOException e) {
+            throw new VendingMachineException("Could not persist audit information.", e);
+        }
+
+        LocalDateTime timestamp = LocalDateTime.now();
+        out.println(timestamp.toString() + " :: " + entry);
+        out.flush();
     }
     
 }
