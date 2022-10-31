@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mattu.vendingmachine.service.VendingMachineServiceImplTest" time="0.3" tests="4" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="D:\practice\mtraining\assignment\week2\assignment\VendingMachine\target\test-classes;D:\practice\mtraining\assignment\week2\assignment\VendingMachine\target\classes;C:\Users\Surface\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Surface\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Surface\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Surface\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Surface\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\Surface\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Surface\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\JDK11\bin"/>
+    <property name="sun.java.command" value="C:\Users\Surface\AppData\Local\Temp\surefire10781080854277504654\surefirebooter16743768624504784611.jar C:\Users\Surface\AppData\Local\Temp\surefire10781080854277504654 2022-07-05T13-21-28_289-jvmRun1 surefire24793801864615834tmp surefire_012030607425363513590tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="test" value="com.mattu.vendingmachine.service.VendingMachineServiceImplTest"/>
+    <property name="surefire.test.class.path" value="D:\practice\mtraining\assignment\week2\assignment\VendingMachine\target\test-classes;D:\practice\mtraining\assignment\week2\assignment\VendingMachine\target\classes;C:\Users\Surface\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Surface\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Surface\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Surface\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Surface\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\Surface\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Surface\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Surface"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-04-19"/>
+    <property name="java.home" value="D:\JDK11"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\practice\mtraining\assignment\week2\assignment\VendingMachine"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Surface\AppData\Local\Temp\surefire10781080854277504654\surefirebooter16743768624504784611.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.15+9-LTS"/>
+    <property name="user.name" value="Surface"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Corretto-11.0.15.9.1"/>
+    <property name="maven.ext.class.path" value="D:\NetBean\NetBeans-12.6\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\Surface\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-11/issues/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Surface\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.15"/>
+    <property name="user.dir" value="D:\practice\mtraining\assignment\week2\assignment\VendingMachine"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\JDK11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\jdk1.8\bin;D:\jdk1.8\jre\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;D:\python\Scripts;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;D:\nodejs\;D:\Scala\bin;&quot;D:\Scala\bin;&quot;;&quot;D:\Scala\jre\bin;&quot;;D:\jdk1.8;E:\;E:\xshell\;D:\Git\cmd;C:\Users\Surface\AppData\Local\Microsoft\WindowsApps;C:\Users\Surface\AppData\Local\Microsoft\WindowsApps;C:\Users\Surface\.dotnet\tools;C:\Users\Surface\AppData\Local\Programs\Fiddler;D:\SDK16\bin;D:\mysql-8.0.25-winx64\mysql-8.0.25-winx64\bin;D:\apache-maven-3.8.1-bin\apache-maven-3.8.1\bin;C:\Users\Surface\AppData\Roaming\npm;&quot;D:\Scala\bin;&quot;;&quot;D:\Scala\jre\bin;&quot;;C:\Users\Surface\AppData\Local\GitHubDesktop\bin;D:\Microsoft VS Code\bin;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="java.vm.version" value="11.0.15+9-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="testChangeInventoryCount" classname="com.mattu.vendingmachine.service.VendingMachineServiceImplTest" time="0.098"/>
+  <testcase name="testGetItem" classname="com.mattu.vendingmachine.service.VendingMachineServiceImplTest" time="0.033"/>
+  <testcase name="testListAllItems" classname="com.mattu.vendingmachine.service.VendingMachineServiceImplTest" time="0.009"/>
+  <testcase name="testSellItem" classname="com.mattu.vendingmachine.service.VendingMachineServiceImplTest" time="0.102">
+    <failure message="Change return should be 9.00 ==&gt; expected: &lt;9.0&gt; but was: &lt;9.01&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: Change return should be 9.00 ==> expected: <9.0> but was: <9.01>
+	at com.mattu.vendingmachine.service.VendingMachineServiceImplTest.testSellItem(VendingMachineServiceImplTest.java:105)
+]]></failure>
+  </testcase>
+</testsuite>

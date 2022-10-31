@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.mattu.vendingmachine.dao.VendingMachineDaoImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.428 s <<< FAILURE! - in com.mattu.vendingmachine.dao.VendingMachineDaoImplTest
+testGetItem  Time elapsed: 0.259 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Item must be null ==> expected: <null> but was: <Item{name=Gum, cost=0.49, numInventoryItems=11}>
+	at com.mattu.vendingmachine.dao.VendingMachineDaoImplTest.testGetItem(VendingMachineDaoImplTest.java:77)
+

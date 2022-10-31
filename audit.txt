@@ -1,0 +1,58 @@
+Mon Jul 04 18:24:34 EDT 2022 :: Item CocaCola has been sold. Number in Inventory: 17
+Mon Jul 04 18:24:36 EDT 2022 :: Item CocaCola has been sold. Number in Inventory: 16
+Mon Jul 04 18:24:39 EDT 2022 :: Item Canada Dry has been sold. Number in Inventory: 12
+Mon Jul 04 18:24:40 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 31
+Mon Jul 04 18:24:42 EDT 2022 :: Item Pepsi has been sold. Number in Inventory: 10
+Mon Jul 04 18:24:44 EDT 2022 :: Item Mountain Dew has been sold. Number in Inventory: 1
+Mon Jul 04 18:24:46 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 30
+Mon Jul 04 18:24:47 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 29
+Mon Jul 04 18:24:49 EDT 2022 :: Item Mountain Dew has been sold. Number in Inventory: 0
+Mon Jul 04 18:24:51 EDT 2022 :: Item Snickers Bar has been sold. Number in Inventory: 16
+Mon Jul 04 18:24:53 EDT 2022 :: Item Pepsi has been sold. Number in Inventory: 9
+Mon Jul 04 18:24:55 EDT 2022 :: Item Pepsi has been sold. Number in Inventory: 8
+Mon Jul 04 18:24:59 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 28
+Mon Jul 04 18:25:01 EDT 2022 :: Item Cheetos has been sold. Number in Inventory: 3
+Mon Jul 04 18:25:04 EDT 2022 :: Item Cheetos has been sold. Number in Inventory: 2
+Mon Jul 04 18:25:06 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 27
+Mon Jul 04 18:25:07 EDT 2022 :: Item Cheetos has been sold. Number in Inventory: 1
+Mon Jul 04 18:25:09 EDT 2022 :: Item Canada Dry has been sold. Number in Inventory: 11
+Mon Jul 04 18:25:10 EDT 2022 :: Item Pepsi has been sold. Number in Inventory: 7
+Mon Jul 04 18:25:12 EDT 2022 :: Item Cheetos has been sold. Number in Inventory: 0
+Mon Jul 04 18:25:14 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 26
+Mon Jul 04 18:25:15 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 25
+Mon Jul 04 18:25:20 EDT 2022 :: Item Canada Dry has been sold. Number in Inventory: 10
+Mon Jul 04 18:25:22 EDT 2022 :: Item Snickers Bar has been sold. Number in Inventory: 15
+Mon Jul 04 18:25:23 EDT 2022 :: Item Canada Dry has been sold. Number in Inventory: 9
+Mon Jul 04 18:25:27 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 24
+Mon Jul 04 18:25:29 EDT 2022 :: Item Pepsi has been sold. Number in Inventory: 6
+Mon Jul 04 18:25:30 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 23
+Mon Jul 04 18:25:32 EDT 2022 :: Item Canada Dry has been sold. Number in Inventory: 8
+Mon Jul 04 18:25:33 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 22
+Mon Jul 04 18:25:35 EDT 2022 :: Item Canada Dry has been sold. Number in Inventory: 7
+Mon Jul 04 18:25:36 EDT 2022 :: Item Canada Dry has been sold. Number in Inventory: 6
+Mon Jul 04 18:25:40 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 21
+Mon Jul 04 18:25:44 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 20
+Tue Jul 05 11:00:50 EDT 2022 :: Item Mountain Dew has been sold. Number in Inventory: 16
+Tue Jul 05 11:01:11 EDT 2022 :: Item CocaCola has been sold. Number in Inventory: 15
+Tue Jul 05 11:01:16 EDT 2022 :: Item Canada Dry has been sold. Number in Inventory: 5
+Tue Jul 05 11:01:22 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 99
+Tue Jul 05 11:01:54 EDT 2022 :: Item CocaCola has been sold. Number in Inventory: 14
+Tue Jul 05 11:02:28 EDT 2022 :: Item Snickers Bar has been sold. Number in Inventory: 14
+Tue Jul 05 11:22:55 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 11:26:24 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 11:26:24 EDT 2022 :: Item abc has been sold. Number in Inventory: 7
+Tue Jul 05 11:47:32 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 11:59:02 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 11:59:18 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 11:59:43 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 12:03:58 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 12:04:40 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 12:05:20 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 12:17:13 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 12:58:14 EDT 2022 :: Item Snickers Bar has been sold. Number in Inventory: 13
+Tue Jul 05 12:58:25 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 98
+Tue Jul 05 13:19:01 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 13:21:33 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 13:23:40 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 97
+Tue Jul 05 13:24:17 EDT 2022 :: Item abc has been sold. Number in Inventory: 7
+Fri Oct 21 08:34:16 PDT 2022 :: Item Snickers Bar has been sold. Number in Inventory: 12
